@@ -45,9 +45,9 @@ plt.show()
 
 ```
 ## Output
-<img width="1250" height="508" alt="image" src="https://github.com/user-attachments/assets/58d2f45d-d5cd-4291-ad50-b7fef869db3c" />
-<img width="1323" height="632" alt="image" src="https://github.com/user-attachments/assets/109289a4-4d40-4de5-ae0c-4e885c78bcb8" />
-<img width="1442" height="653" alt="image" src="https://github.com/user-attachments/assets/5d9369a0-9f4a-41c0-abcd-fcb789aaf17d" />
+<img width="1207" height="522" alt="image" src="https://github.com/user-attachments/assets/4203f8c8-bf0d-431b-91a3-59e644344063" />
+<img width="1350" height="607" alt="image" src="https://github.com/user-attachments/assets/5ce30bdb-dfe3-4413-9dc6-9fe425d58f1a" />
+<img width="1525" height="632" alt="image" src="https://github.com/user-attachments/assets/08df1bfb-0454-470b-936a-d4b95aad8a96" />
 
 
 ## Result
