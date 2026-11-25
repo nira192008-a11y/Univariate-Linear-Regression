@@ -39,15 +39,14 @@ plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
 
-
-
-
-
 ```
-## Output
-<img width="1207" height="522" alt="image" src="https://github.com/user-attachments/assets/4203f8c8-bf0d-431b-91a3-59e644344063" />
-<img width="1350" height="607" alt="image" src="https://github.com/user-attachments/assets/5ce30bdb-dfe3-4413-9dc6-9fe425d58f1a" />
-<img width="1525" height="632" alt="image" src="https://github.com/user-attachments/assets/08df1bfb-0454-470b-936a-d4b95aad8a96" />
+## output
+<img width="1800" height="953" alt="Screenshot 2026-11-25 094344" src="https://github.com/user-attachments/assets/88209d37-fecb-48f2-b921-9a92a9e9638e" />
+<img width="1792" height="921" alt="Screenshot 2026-11-25 094403" src="https://github.com/user-attachments/assets/0b26f663-54d1-45f4-a391-570bfbe29130" />
+<img width="1773" height="772" alt="Screenshot 2026-11-25 094419" src="https://github.com/user-attachments/assets/5fd4c1b6-2380-473f-add2-48097b318126" />
+
+
+
 
 
 ## Result
